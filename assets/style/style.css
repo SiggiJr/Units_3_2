@@ -135,15 +135,12 @@ body {
 }
 
 .project_examples a {
+  color: black;
   display: inline-block;
   font-size: 2rem;
   font-weight: 700;
   padding-bottom: 0.75rem;
   text-decoration: none;
-}
-
-.project_examples a:visited {
-  color: black;
 }
 
 /* === HOVER-EFFEKTE === */
