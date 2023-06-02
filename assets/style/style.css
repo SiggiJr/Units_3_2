@@ -99,7 +99,7 @@ body {
 
 .projects_text .background_heading {
   color: rgb(244, 251, 251);
-  font-size: 140px;
+  font-size: 8.75rem;
   font-weight: 700;
   padding-bottom: 0;
   position: absolute;
@@ -117,7 +117,7 @@ body {
 .projects_text p {
   font-family: var(--font_Maven);
   padding-bottom: 13.5rem;
-  width: 691.66px;
+  width: 43.2287rem;
 }
 
 .project_examples {
